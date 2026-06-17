@@ -1,0 +1,89 @@
+product_id,price,product_taxonomies,cogs
+P001,140.47,commodity,48.18
+P002,215.55,commodity,48.07
+P003,34.46,commodity,11.37
+P004,252.2 baht,,51.2
+P005,293.87,,68.18
+P006,76.44,commodity,18.8
+P007,159.7,commodity,38.97
+P008,61.73,commodity,15.06
+P009,167.78,commodity,53.35
+P010,187.27,commodity,54.12
+P011,218.53,commodity,49.39
+P012,332.88,beverage ,114.84
+P013,117.05,beverage,48.58
+P014,162.45 baht,beverage,67.9
+P015,26.52 baht,beverage,14.21
+P016,236.94,beverage,105.91
+P017,198.15,beverage,84.81
+P018,274.67 baht,beverage,148.6
+P019,215.3,beverage,115.83
+P020,80.65,beverage,32.82
+P021,145.21,beverage,64.04
+P022,134.51,beverage,59.45
+P023,62.21,beverage,32.35
+P024,345.61,beverage,178.33
+P025,16.85,beverage,8.8
+P026,259.22,beverage,133.76
+P027,135.09,snack,63.09
+P028,223.8,beverage ,111.9
+P029,119.18 baht,snack,59.47
+P030,228.58,Beverage,133.26
+P031,55.06,snack,30.67
+P032,203.03 baht,snack,114.91
+P033,190.12,snack,97.72
+P034,51.14,snack,23.27
+P035,120.31,snack,63.28
+P036,98.51 baht,snack,50.44
+P037,91.65,snack,42.34
+P038,69.01,snack,40.65
+P039,227.19,snack,132.0
+P040,77.5,fresh_food,49.13
+P041,285.49,fresh_food,181.0
+P042,51.87,fresh_food,27.7
+P043,289.03,fresh_food,181.8
+P044,186.1,fresh_food,104.77
+P045,55.15,fresh_food,30.39
+P046,123.27,fresh_food,71.25
+P047,136.82,fresh_food,88.39
+P048,99.35,fresh_food,57.13
+P049,110.42,fresh_food,55.87
+P050,183.4,fresh_food,93.17
+P051,319.27,fresh_food,171.13
+P052,178.97,fresh_food,115.97
+P053,240.17,dry_food,155.87
+P054,258.95,dry_food,154.85
+P055,227.23,,140.88
+P056,294.83,dry_food,174.54
+P057,28.66,dry_food,17.97
+P058,20.56,dry_food,12.69
+P059,231.13,dry_food,132.44
+P060,144.56,dry_food,97.14
+P061,129.26,dry_food,73.03
+P062,308.91,dry_food,180.4
+P063,288.77,dry_food,179.61
+P064,96.02,dry_food,53.96
+P065,316.64,dry_food,200.12
+P066,131.99,dry_food,85.0
+P067,312.17,household,216.65
+P068,43.19,household,26.73
+P069,218.15,household,131.11
+P070,237.27 baht,household,142.6
+P071,198.83,household,135.8
+P072,90.13,household,61.74
+P073,124.01,household,85.57
+P074,299.49,household,203.35
+P075,46.38,household,29.87
+P076,96.74,,69.36
+P077,313.84,household,212.16
+P078,183.38,household,122.68
+P079,80.41,household,55.24
+P080,23.15,household,15.67
+P064,96.02,dry_food,53.96
+P028,223.8,beverage ,111.9
+P032,203.03 baht,snack,114.91
+P070,237.27 baht,household,142.6
+P047,136.82,fresh_food,88.39
+P048,99.35,fresh_food,57.13
+P054,258.95,dry_food,154.85
+P075,46.38,household,29.87
