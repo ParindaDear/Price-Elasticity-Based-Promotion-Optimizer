@@ -1,6 +1,7 @@
 # 📈 Price Elasticity-Based Promotion Optimizer
 
-**BOTNOI Consulting – Data Science Trainee Test**
+**BOTNOI Consulting – Data Science Trainee Test**   
+
 **Parinda Lertpituckchaiporn (Dear)**
 
 ---
@@ -43,8 +44,11 @@
 # 🔄 Project Workflow
 
 พัฒนาตาม **CRISP-DM Framework**
+
 **Business Understanding → Data Preparation → Modeling → Evaluation → Deployment**
-![Project Workflow](workflow diagram.png)
+
+![Project Workflow](workflow_diagram.png)
+
 ---
 
 # 🧹 Data Preparation
