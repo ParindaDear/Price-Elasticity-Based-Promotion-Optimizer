@@ -110,5 +110,5 @@
 ![Example Output](./pic/excel_output_example.png)
   
 * `powerbi_dashboard_data.csv` — Dataset สำหรับสร้าง Power BI Dashboard
-![Dashboard](dashboard_promotion_optimization.png)
+![Dashboard](Dashboard_Promotion_Optimization.png)
 ![Dashboard OR](./pic/qr_dashboard.jpg)
