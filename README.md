@@ -103,6 +103,9 @@
 
 ---
 
-# 📦 Output
+# 📦 Final Output
 * `promotion_recommendation.csv` — คำแนะนำส่วนลดที่เหมาะสมสำหรับแต่ละสินค้า
+![Example Output](./pic/excel_output_example.png)
+  
 * `powerbi_dashboard_data.csv` — Dataset สำหรับสร้าง Power BI Dashboard
+![Dashboard](./pic/excel_output_example.png)
