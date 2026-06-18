@@ -47,12 +47,14 @@
 
 **Business Understanding → Data Preparation → Modeling → Evaluation → Deployment**
 
-![Project Workflow](workflow_diagram.png)
+<p align="center">
+  <img src="workflow_diagram.png" width="500">
+</p>
 
 ---
 
 # 🧹 Data Preparation
-รทำ Data Cleaning และ Feature Engineering เพื่อเตรียมข้อมูลสำหรับการวิเคราะห์ โดยแก้ไขปัญหา
+ทำ Data Cleaning และ Feature Engineering เพื่อเตรียมข้อมูลสำหรับการวิเคราะห์ โดยแก้ไขปัญหา
 * Missing Values
 * Duplicate Records
 * Data Inconsistency
