@@ -47,12 +47,14 @@
 
 **Business Understanding → Data Preparation → Modeling → Evaluation → Deployment**
 
-![Project Workflow](workflow_diagram.png)
+<p align="center">
+  <img src="workflow_diagram.png" width="500">
+</p>
 
 ---
 
 # 🧹 Data Preparation
-รทำ Data Cleaning และ Feature Engineering เพื่อเตรียมข้อมูลสำหรับการวิเคราะห์ โดยแก้ไขปัญหา
+ทำ Data Cleaning และ Feature Engineering เพื่อเตรียมข้อมูลสำหรับการวิเคราะห์ โดยแก้ไขปัญหา
 * Missing Values
 * Duplicate Records
 * Data Inconsistency
@@ -103,6 +105,10 @@
 
 ---
 
-# 📦 Output
+# 📦 Final Output
 * `promotion_recommendation.csv` — คำแนะนำส่วนลดที่เหมาะสมสำหรับแต่ละสินค้า
+![Example Output](./pic/excel_output_example.png)
+  
 * `powerbi_dashboard_data.csv` — Dataset สำหรับสร้าง Power BI Dashboard
+![Dashboard](dashboard_promotion_optimization.png)
+![Dashboard OR](./pic/qr_dashboard.jpg)
